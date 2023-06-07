@@ -1,4 +1,4 @@
-# Crud con .Net core, C#, Entity framework.
+# Crud con .Net core, C#, Entity framework, sql server.
 
 Pasos: 
 1. Crear un proyecto ASP.Net core web aplication (MVC)
