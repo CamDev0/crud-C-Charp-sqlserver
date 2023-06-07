@@ -1,7 +1,7 @@
 # Crud con .Net core, C#, Entity framework.
 
 Pasos: 
-1. Crear un proyecto ASP.Net core web aolication (MVC)
+1. Crear un proyecto ASP.Net core web aplication (MVC)
 2. Instalar los nugets sql server y tools de entity framework core.
 3. Creamos la DB y las tablas en sql server.
 4. Entramos a la consola del nugget y hacemos el mapeo de la DB. Ej: Scaffold-DbContext "Server=yourServer; Encrypt = False; database=nameDatabase; user id = dba; password= 1234;" Microsoft.EntityFrameworkCore.SqlServer -OutPutDir Models
